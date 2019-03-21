@@ -1,2 +1,37 @@
-# Insurance-Data-Set
-While predicting the cases “200KandAbove” which are likely to result in litigation helps early intervention with suitable defence strategies and/or a settlement with claimants to avoid litigation, and reduce litigation expenses, it also helps allocation of appropriately experienced internal resources and attorneys. It also helps prepare expert witnesses to testify and reduce the claim costs. The claims predicted as “100K-lessthan200K”, potentially could develop into unexpected high severity claims of size more than $200K. So it is even more important, in such cases, to evaluate the mutual strengths to convince panel to force arbitration and avoid litigation and/or to explore the possibility of settlement. Identification of cases “lessthan100K”  will help save the resources and allocate them to standard claim settlement operations team for expeditious settlement.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/preethamspikey/Insurance-Data-Set/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/preethamspikey/Insurance-Data-Set/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
